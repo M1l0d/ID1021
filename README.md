@@ -1,2 +1,2 @@
 # ID1021
-School work
+This repository includes lab-assignments from the course ID1021.
